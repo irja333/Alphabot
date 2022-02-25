@@ -1,6 +1,6 @@
 {
-  "name": "Alphabot",
-  "version": "15.0.0",
+  "name": "IRJA",
+  "version": "05.12.03",
   "description": "WhatsApp bot",
   "zeeone": "zeeone.js",
   "directories": {
@@ -76,10 +76,10 @@
   "keywords": [
     "botwea"
   ],
-  "author": "ZEEONE",
+  "author": "IRJA",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/zeeoneofc"
+    "url": ""
   },
   "homepage": "https://github.com/zeeoneofc"
 }
