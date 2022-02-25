@@ -15,7 +15,7 @@ global.APIKeys = {
 }
 
 global.owner = ['6282275576880','12202006957']
-global.packname = setting.botname
+global.packname = '© IRJA'
 global.author = 'IG : irja_official'
 global.swelcome = '*Welcome @tag* \n\n📛 : _@user_\n💌 : _@bio_\n🔢 : _@number_\n👥 : @subject\n🏅: _@member Members_\n⏰ : _@time Server time_\n\n```Hope you like it and don\'t forget to read the group description```'
 global.sleave = '◪ Goodbye @tag\n◪ Leave from group:\n@subject\n\n│\n└─ ❏ Nomor: @number\nGoodBye~~'
